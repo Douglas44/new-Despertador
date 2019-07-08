@@ -1,6 +1,6 @@
 # Projeto Despertador
-Nesse projeto foi importador o módulo Win10toast que é responsável por enviar uma notificação
-na tela do usuário quando o tempo chegar ao limite.
+Um simples projeto de um Despertador feito em Python apenas para aprendizado. Esse projeto foi feito com o 
+auxilio do módulo <i>win10toas</i> que é responsável pela notificação do seu windows 10
 <ol>
 <li>Módulo: from win10toast import ToastNotifier</li>
 <li>toaster = ToastNotifier()</li>
